@@ -19,4 +19,4 @@ cd portfolio_rebalance_simulator
 ### **Bangkok Condo Rentals**
 A project analyzing condominium rental listings in Bangkok, Thailand. It uses data scraped (Aug 2025) from a ``redacted`` property website to explore trends in pricing, size, and location across various districts and specific condo projects.
 
-[![Open in GitHub](https://img.shields.io/badge/GitHub-Open%20Repo-blue?logo=github)](./Python/bangkok%20condo%20rentals%20(Aug%202025))
+[![Open in GitHub](https://img.shields.io/badge/GitHub-Open%20Repo-blue?logo=github)](./bangkok%20condo%20rentals%20(Aug%202025))
