@@ -1,9 +1,9 @@
 
 # Python Visualizations & Tools
 
-A curated collection of Python-powered notebooks, scripts and utilities for data-viz and quantitative analysis.
+A curated collection of Python-powered notebooks, scripts, repositories and utilities for data-viz and quantitative analysis.
 
-## 📊 Some Project  
+## 📊 Some Works
 **Portfolio Rebalancing Simulator**  
 Interactive simulation and visualization of portfolio rebalancing strategies using historical data from Yahoo Finance using streamlit.
 
